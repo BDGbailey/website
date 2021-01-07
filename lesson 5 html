@@ -1,0 +1,24 @@
+<!DOCUTYPE html>
+<html lang="en">
+<head>
+  <title>lesson 5</title>
+  <meta charset="utf-8">
+</head>
+
+  <!-- attributes are like the hair of the skeleton in coding-->
+
+<body bgcolor="Green">
+
+  <!-- the value in this case is the color green-->
+
+  <!-- inserting images -->
+
+<img src="images/calf.jpg" alt="Photo of a calf" width="400" height="300' />
+
+  <!-- img codes don't need to end with img, just /> -->
+
+  <!-- img is the tag, add a space after the source, then alt= -->
+
+
+</body>
+</html>
