@@ -1,4 +1,31 @@
 body {
-  background-color: aqua;
-  color: rgb (33, 133, 33)
+  background-color: teal;
+  color: DarkBlueSlate;
+}
+
+h1{
+  color: black;
+  text-shadow: 2px 2px 2px #888;
+  background-color: #50a189;
+  border: 5px inset red;
+  box-shadow: 5px 5px 0 #888;
+  border-radius: 25px;
+}
+
+h2{
+  color:black;
+  background-color: #50a189;
+  border: 5px inset red;
+  box-shadow: 5px 5px 0 #888;
+  border-radius: 25px;
+}
+
+section{
+  color: green
+  text-shadow: 2px 2px 2px #888;
+}
+
+footer{
+  text-shadow: 2px 2px 2px #888;
+  border-radius: 25px;
 }
