@@ -3,9 +3,20 @@ body {
   color: DarkBlueSlate;
 }
 
+/*this is how to comment in Css*/
+
+/*comments span multiple lines*/
+
+/* pressing ctrl +/ is a hot key setup to set up a comment in Css */
+
+body{
+color:black;
+font-family; Helvetica;
+}
+
 h1{
   font-family: 'Big Shoulders Stencil Text', cursive;
-  color: black;
+  color: red;
   text-shadow: 2px 2px 2px #888;
   background-color: #50a189;
   border: 5px inset red;
