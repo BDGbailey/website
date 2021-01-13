@@ -7,12 +7,10 @@
 }
 
 body {
-  background-image: url("Brushandroll.jpg"), url("suncity.jpg");
-  background-color: #cccccc;
+  background-color: #6fdc6f
   color:black;
   font-size: 14px;
   margin: 50px;
-  /* font-weight: bold; */
 }
 
 
@@ -22,30 +20,30 @@ p {
   margin: 15px 0;
   paddding: 30px;
   border: 1px dotted red;
-  /* margin-top: 10px; */
-  /* margin-bottom: 20px; */
-  /* margin-right: 10px; */
-  /* margin-left: 0; */
 }
 
 h1, h2, h3 {
-  /*margin-bottom: 40px;*/
-  /* font-weight:bold; */
-  /* font-style:italic; */
-  /* text-align: justify; */
+  margin-bottom: 40px;
+   font-weight:bold;
+   font-style:italic;
+   text-align: justify;
 }
 
 h1 {
   text-align: center;
-  font-family: 'Big Shoulders Stencil Text', cursive;
-  color: red;
+  font-family: Book Antiqua;
+  color: #80ff80;
   text-shadow: 2px 2px 2px #888;
-  background-color: #50a189;
-  border: 5px inset red;
+  background-color: #d6d6c2;
+  border: 5px inset #52cc85;
   box-shadow: 5px 5px 0 #888;
   border-radius: 25px;
   font-size: 36px;
   font-style: italic;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-right: 10px;
+  margin-left: 0;
 }
 
 h2 {
@@ -70,6 +68,7 @@ h3 {
   }
 
 section p {
+  font-style: Sans-serif;
   border: solid red;
   color: red
   font-size: 16px;
@@ -83,8 +82,8 @@ section p {
 }
 
 img {
-  width: 300px;
-  height: 200px;
+  width: 60%;
+  height: 50%;
 }
 
 ul, ol {
